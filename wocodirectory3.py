@@ -1,4 +1,5 @@
-#get woffod directory
+# A script to get full list of wofford college students from the 
+# directory websites.. One shouldnt be able to do this, but oh well..
 # Python 3
 #import urllib.request
 import urllib
