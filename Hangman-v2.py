@@ -1,4 +1,6 @@
-## Hangman
+## A little script to play hangman against a human.
+## you give it the puzzles and and it will gradually
+## guess it. 
 
 import sys
 ALPH = 'abcdefghijklmnopqrstuvwxyz'
